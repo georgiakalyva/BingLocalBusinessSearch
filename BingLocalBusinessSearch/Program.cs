@@ -10,7 +10,7 @@ namespace BingLocalBusinessSearch
 {
     /// <summary>
     /// This sample is the code presented in this tutorial by CodeStories.gr
-    /// Tutorial Link: 
+    /// Tutorial Link:  http://www.codestories.gr/index.php/2019/01/21/bing-local-business-search/
     /// For more tutorials and news find me: 
     /// Blog: http://www.codestories.gr
     /// Facebook: https://www.facebook.com/codestoriesgr/
